@@ -54,7 +54,7 @@ public class GamePanel extends JPanel implements ActionListener {
     }
 
     public void reset() {
-        bodyParts = 6;
+        bodyParts = 2;
         cherrysEaten = 0;
         direction = 'R';
         for (int i = 0; i < bodyParts; i++) {
