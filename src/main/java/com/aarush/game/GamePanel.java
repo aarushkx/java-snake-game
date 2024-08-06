@@ -190,19 +190,6 @@ public class GamePanel extends JPanel implements ActionListener {
             }
         }
 
-        if (x[0] < 0) {
-            running = false;
-        }
-        if (x[0] > SCREEN_WIDTH) {
-            running = false;
-        }
-        if (y[0] < 0) {
-            running = false;
-        }
-        if (y[0] > SCREEN_HEIGHT) {
-            running = false;
-        }
-
         if (x[0] < 0 || x[0] >= SCREEN_WIDTH || y[0] < 0 || y[0] >= SCREEN_HEIGHT) {
             running = false;
             gameState = GAME_OVER;
