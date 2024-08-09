@@ -2,6 +2,10 @@
 
 This is a simple snake game implemented in Java using Swing GUI framework.
 
+## Preview
+
+![Snake Game](src/res/gifs/java-snake-game.gif)
+
 ## How to play
 
 1. Run the game by executing the `Main.java` file.
@@ -21,7 +25,3 @@ This is a simple snake game implemented in Java using Swing GUI framework.
 ## Requirements
 
 - Java Development Kit (JDK) version 8 or higher.
-
-## Preview
-
-![Snake Game](src/res/gifs/java-snake-game.gif)
