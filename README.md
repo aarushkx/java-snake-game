@@ -21,3 +21,7 @@ This is a simple snake game implemented in Java using Swing GUI framework.
 ## Requirements
 
 - Java Development Kit (JDK) version 8 or higher.
+
+## Preview
+
+![Snake Game](res/gifs/java-snake-game.gif)
