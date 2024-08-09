@@ -24,4 +24,4 @@ This is a simple snake game implemented in Java using Swing GUI framework.
 
 ## Preview
 
-![Snake Game](res/gifs/java-snake-game.gif)
+![Snake Game](src/res/gifs/java-snake-game.gif)
